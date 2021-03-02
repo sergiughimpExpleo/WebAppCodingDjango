@@ -1,0 +1,45 @@
+To Do:
+	1. WebAppCodingWithMitch (Learn Django)
+https://www.youtube.com/watch?v=i6cwBiz7BuQ&list=PLgCYzUzKIBE_dil025VAJnDjNZHHHR9mW&index=1
+
+Video 1:
+    Installing Python in 2019
+Video 2:
+    Python Virtual Environments(virtualenv)
+Video 3:
+    Installing Django in 2019
+Video 4:
+    Creating Your First Django Project
+        1. create a django project from the command line on windows. The django project is created inside a virtual environment.
+Video 5:
+    Pip Freeze and Python Libraries
+        1. use "pip freeze" to save all the python libraries to a notepad file named "requirements.txt".
+Video 6:
+    Web Development IDE
+Video 7:
+    Django Apps, Views and Templates
+        1. Creating a Django app
+        2. Django views
+        3. html templates with django
+        4. Django urls
+Video 8:
+    Django Content Blocks and Snippets
+        1. how to use Content blocks and include snippets with django.
+Video 9:
+    Passing Variables to a Template with Django
+        1. How to pass variables to a template from a view
+        2. How to pass values to an include snippet
+Video 10:
+    Django Admin Panel and Superuser
+        1. How to migrate changes to your django database
+        2. How to set up an admin panel in django
+        3. How to create a superuser with django
+        4. How to log into the admin panel with django
+Video 11:
+    Django Models and Django Admin (beginner example)
+        1. Create new Django models
+        2. Add models to the database using migrate and makemigrations
+        3. Create new objects from the admin panel
+        4. Query database objects in a view
+        5. Pass queried database objects from the view to a template
+
