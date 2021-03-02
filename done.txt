@@ -42,4 +42,6 @@ Video 11:
         3. Create new objects from the admin panel
         4. Query database objects in a view
         5. Pass queried database objects from the view to a template
-
+Video 12:
+    Creating a Custom User Model (Django)
+        1. how to build a custom User model using AbstractBaseUser in Django.
