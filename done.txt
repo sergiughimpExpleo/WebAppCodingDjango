@@ -45,3 +45,19 @@ Video 11:
 Video 12:
     Creating a Custom User Model (Django)
         1. how to build a custom User model using AbstractBaseUser in Django.
+Video 13:
+    Customizing Django Admin (search and filtering)
+        1. Customize the admin panel to show more fields
+        2. Sort fields by ascending or descending order
+        3. Search by username or email
+        4. Hide user passwords using a hash
+Video 14:
+    Custom User Registration Django (AbstractBaseUser and UserCreationForm)
+        1. Create a custom user registration form using the UserCreationForm class
+        2. Register a custom user model (AbstractBaseUser )
+Video 15:
+    Logging out Users and Checking Authentication Status
+        1. Logout users
+        2. Check user authentication status in a template
+Video 16:
+    Logging in Users
