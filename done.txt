@@ -61,3 +61,10 @@ Video 15:
         2. Check user authentication status in a template
 Video 16:
     Logging in Users
+Video 17:
+    Updating User Accounts with Forms
+        1.  how to update user account properties using a custom form.
+Video 18:
+    Bootstrap Installation and Example
+        1.  how to install bootstrap on a django project
+        2.  a bootstrap navigation bar, body and footer.

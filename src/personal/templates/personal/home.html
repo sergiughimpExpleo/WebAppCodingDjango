@@ -1,9 +1,15 @@
 {% extends 'base.html' %} {% block content %}
+<div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+    <h1 class="display-4">Coding with Sergiu</h1>
+    <p class="lead">In this course you'll learn how to build a simple blog with user registration and blog CRUD functionality. Django is powerful framework and you'll see why in this course.
+    </p>
+</div>
 
-
-<h3>This is th body</h1>
-    <p>Here is where you put stuff that should be in the body of your websites.</p>
-
-    <p> {% for account in accounts %}
-        <p>{{account}}</p> {% endfor %} </p>
-    {% endblock content %}
+<div class="container">
+    <div class="d-flex flex-column">
+        <h3>Registered users</h1>
+            <p> {% for account in accounts %}
+                <p>{{account}}</p> {% endfor %} </p>
+    </div>
+</div>
+{% endblock content %}
