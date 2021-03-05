@@ -68,3 +68,10 @@ Video 18:
     Bootstrap Installation and Example
         1.  how to install bootstrap on a django project
         2.  a bootstrap navigation bar, body and footer.
+Video 19:
+    Bootstrap Login, Registration and Account Screens
+        1. A screen for logging in
+        2. A screen for Registration
+        3. And a screen for Account properties
+Video 20:
+    Reset Password and Change Password (Django)
