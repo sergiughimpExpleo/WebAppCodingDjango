@@ -75,3 +75,16 @@ Video 19:
         3. And a screen for Account properties
 Video 20:
     Reset Password and Change Password (Django)
+Video 21:
+    Blog Post Model (Django)
+        1. how to build a custom django model for a blog post object
+Video 22:
+    Django Static Files (Images)
+        1. STATIC_URL
+        2. MEDIA_URL
+        3. STATIC_ROOT
+        4. MEDIA_ROOT
+        5. STATICFILE_DIRS
+Video 23:
+    Modeling the Blog using Reddit.com
+        
