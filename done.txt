@@ -1,6 +1,8 @@
 To Do:
 	1. WebAppCodingWithMitch (Learn Django)
 https://www.youtube.com/watch?v=i6cwBiz7BuQ&list=PLgCYzUzKIBE_dil025VAJnDjNZHHHR9mW&index=1
+https://github.com/mitchtabian/CodingWithMitch-Blog-Course
+
 
 Video 1:
     Installing Python in 2019
@@ -87,4 +89,12 @@ Video 22:
         5. STATICFILE_DIRS
 Video 23:
     Modeling the Blog using Reddit.com
-        
+Video 24:
+    Creating Blog Posts using a Form
+        1. how to use django forms to create new blog posts
+Video 25:
+    Detail View of Blog Posts
+        1.  build a detail view of a blog post object using Django. The detail view can be found using the slug from the object.
+Video 26:
+    Updating Blog Posts using a Django Form (Images)
+        1.  how to update images on a django model. 
