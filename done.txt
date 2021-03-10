@@ -97,4 +97,12 @@ Video 25:
         1.  build a detail view of a blog post object using Django. The detail view can be found using the slug from the object.
 Video 26:
     Updating Blog Posts using a Django Form (Images)
-        1.  how to update images on a django model. 
+        1.  how to update images on a django model.
+Video 27:
+    Blog Search Bar (Django Q Lookup)
+        1. how to build a searchbar for your websites using Q lookup
+Video 28:
+    Pagination and Custom Search Queries (Django)
+        1. how to use pagination with django.
+Video 29:
+    Bug Fixes (blog_post.author != user) 
